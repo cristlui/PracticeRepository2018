@@ -1,3 +1,5 @@
 This is the Master list
 Creating a new pull request from this practice
-changes files below
+*changes files below*
+This will go in the new branch so we can do the pull request part of training
+
